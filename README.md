@@ -1,7 +1,8 @@
 # ahalogy-interview
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is the interview project for Ahalogy. Please try your best to clone the provided layout image. All of your models, serializers, and adapters are all ready set up.
+
+Your view file can be found in app/templates/influencer.hbs, and your route file is under app/routes/influencer.
 
 ## Prerequisites
 
@@ -22,30 +23,7 @@ You will need the following things properly installed on your computer.
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
