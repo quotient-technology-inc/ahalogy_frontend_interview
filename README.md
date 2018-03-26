@@ -1,6 +1,6 @@
 # ahalogy-interview
 
-This is the interview project for Ahalogy. Please try your best to clone the provided layout image. All of your models, serializers, and adapters are all ready set up.
+This is the interview project for Ahalogy. Please try your best to clone the provided layout image. All of your models, serializers, and adapters are all ready set up. Do not worry about getting the story images from the data, you can just hard code those in.
 
 [interview.png](https://s7.postimg.org/4o0jpn8kr/interview.png)
 
