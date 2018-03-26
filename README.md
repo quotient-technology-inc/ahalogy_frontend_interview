@@ -2,6 +2,8 @@
 
 This is the interview project for Ahalogy. Please try your best to clone the provided layout image. All of your models, serializers, and adapters are all ready set up.
 
+[interview.png](https://postimg.org/image/ihowep15z/)
+
 Your view file can be found in app/templates/influencer.hbs, and your route file is under app/routes/influencer.
 
 ## Prerequisites
