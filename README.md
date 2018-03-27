@@ -6,6 +6,8 @@ This is the interview project for Ahalogy. Please try your best to clone the pro
 
 Your view file can be found in app/templates/influencer.hbs, and your route file is under app/routes/influencer.
 
+You can use PT sans for the font: https://fonts.google.com/specimen/PT+Sans
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
