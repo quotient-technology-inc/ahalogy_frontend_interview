@@ -15,7 +15,8 @@ export default Route.extend({
   },
 
   setupController(controller,model) {
-    model.influencer.then((influencer)=>{
+    model.influencer
+    .then((influencer)=>{
         controller.set('influencer', influencer);
     });
   }
