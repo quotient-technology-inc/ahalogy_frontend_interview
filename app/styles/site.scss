@@ -32,6 +32,15 @@ a {
   }
 }
 
+h1{
+  color: $white;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 1.250em;
+  margin: 10px 0;
+  font-weight: 300;
+}
+
 h2 {
   color: $xlightGray;
   letter-spacing: 2px;

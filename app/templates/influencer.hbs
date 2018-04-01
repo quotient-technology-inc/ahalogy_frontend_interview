@@ -5,20 +5,25 @@
   blogName=influencer.blogName
 }}
 
-<div class="influencer-body">
-  <div class="site-wrapper">
-    {{
-      influencer-sidebar
-      city=influencer.city
-      state=influencer.state
-      blogUrl=influencer.blogUrl
-      socialMediaAccount=influencer.socialMediaAccount
-      contentTopicsMuse=influencer.content_topics_muse_
-      retailersFrequentedMuse=influencer.retailers_frequented_muse_
-      married=influencer.married
-      numberOfKids=influencer.numberOfKids
-      doYouHaveKids=influencer.do_you_have_kids
-      gender=influencer.gender
-    }}
-  </div>
+<div class="site-wrapper flex">
+  {{
+    influencer-sidebar
+    class="influencer-sidebar"
+    city=influencer.city
+    state=influencer.state
+    blogUrl=influencer.blogUrl
+    socialMediaAccount=influencer.socialMediaAccount
+    contentTopicsMuse=influencer.content_topics_muse_
+    retailersFrequentedMuse=influencer.retailers_frequented_muse_
+    married=influencer.married
+    numberOfKids=influencer.numberOfKids
+    doYouHaveKids=influencer.do_you_have_kids
+    gender=influencer.gender
+  }}
+  {{
+    influencer-body
+    class="influencer-body"
+    firstname=influencer.firstname
+    lastname=influencer.lastname
+  }}
 </div>

@@ -3,12 +3,17 @@
 .site-wrapper{
   width: 100%;
   max-width: 1024px;
-  padding: 0 20px;
+  padding: 0;
   margin: 0 auto;
+}
+
+.flex{
+  display:flex;
+  flex-wrap: wrap;
 }
 
 @media (min-width: 768px) {
   .site-wrapper{
-    padding: 0 40px;
+    padding: 0 20px;
   }
 }
