@@ -1,6 +1,7 @@
 body {
   background-color: $darkGray;
   font-family: $fontBody;
+  color: $white;
   font-size: 16px;
   margin: 0;
   padding: 0;
@@ -27,7 +28,7 @@ a {
   }
 
   &:visited, &:active{
-    opacity:0.7;
+    opacity:0.6;
   }
 }
 
@@ -44,5 +45,13 @@ h3 {
   letter-spacing: 2px;
   font-size: 0.875em;
   margin: 5px 0;
+  font-weight: 300;
+}
+
+h4 {
+  color: $xlightGray;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.750em;
   font-weight: 300;
 }
