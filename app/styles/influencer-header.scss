@@ -1,0 +1,22 @@
+@import 'variables';
+
+header{
+  background-color: $lightGray;
+  color: $white;
+  border-top: 7px solid $black;
+}
+
+.influencer-header-wrapper{
+  display:flex;
+  align-items:center;
+  justify-content: space-between;
+  padding: 20px 30px;
+}
+
+.influencer-header-info{
+  display: flex;
+  align-items: center;
+  >div {
+    padding: 0 15px;
+  }
+}

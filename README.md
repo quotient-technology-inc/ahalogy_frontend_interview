@@ -8,6 +8,8 @@ Your view file can be found in app/templates/influencer.hbs, and your route file
 
 You can use PT sans for the font: https://fonts.google.com/specimen/PT+Sans
 
+Please just fork the project and once you are done you can email it to Jake or Ross.
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
