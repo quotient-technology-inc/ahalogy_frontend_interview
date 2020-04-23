@@ -1,4 +1,5 @@
 /* global Ember */
+/* eslint ember/new-module-imports: "off" */
 
 import JSONAPISerializer from 'ember-data/serializers/json-api';
 

@@ -1,5 +1,6 @@
 /* eslint camelcase: "off" */
 /* eslint max-len: "off" */
+/* eslint ember/new-module-imports: "off" */
 
 import Ember from 'ember';
 import Model from 'ember-data/model';
